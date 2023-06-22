@@ -1,0 +1,16 @@
+{
+    "name": "com.radgar.radgaraudiotool.editor",
+    "rootNamespace": "namespace Radgar.editor",
+    "references": [
+        "GUID:62edf886a2f2c384088d2cb5089a5f3f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
