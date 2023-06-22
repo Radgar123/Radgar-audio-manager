@@ -1,3 +1,20 @@
 {
-	"name": "com.radgar.radgaraudiotool.runtime"
+    "name": "com.radgar.radgaraudiotool.runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:450d13d1c6dad0942928af90dc42a6ac",
+        "GUID:5fdcce41753a3ec4496e089cd7b5e0c0",
+        "GUID:62edf886a2f2c384088d2cb5089a5f3f",
+        "GUID:7be48c2d50796d448a1535802c1547b4",
+        "GUID:d528c8c98d269ca44a06cd9624a03945"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
